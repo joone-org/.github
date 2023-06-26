@@ -1,5 +1,5 @@
 # [Joone 501(c)(3)](https://joone.org) © [CC BY-NC-ND](https://github.com/joone-org/SentioNova/blob/main/LICENSE.md)<br>
-We are a non-profit organization devoted to providing educational assistive technologies and curricula to disadvantaged youth worldwide.
+We are a non-profit organization devoted to providing educational assistive technologies and [curricula](https://github.com/joone-org/curriculum.joone.org) to disadvantaged youth worldwide.
 <br><br>
 ## 🏹  Mission
 Joone's mission is to democratize K-12 education by creating and distributing free, open-source curricula. We are committed to fostering educational consistency and quality across the globe through interactive learning experiences and cutting-edge research. Our goal is to ensure every child, regardless of their location or circumstances, has access to personalized and high-quality education.
