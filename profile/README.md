@@ -1,9 +1,7 @@
 # [🌱](https://www.figma.com/file/cJoBjCunCySAbjRsfJ2wpb/Joone-Timeline?type=whiteboard&node-id=0%3A1&t=cnXcZFLV5yraOcam-1)  Our Initiatives
-We are a 501(c)(3) non-profit devoted to providing K-12 assistive technologies and curricula to disadvantaged youth worldwide.
 
 📚  We develop free, open-source K-12 [curricula](https://curriculum.joone.org/) that seamlessly combines core academics with career and technical education paths. With an emphasis on college and career readiness, our approach is diverse, inclusive, and equitable. All content is hosted on GitHub, written in markdown, and designed for integration with your Learning Management System.
 
-<br><br>
 # 🏹  Mission
 Joone's mission is to democratize K-12 education by creating and distributing free, open-source curricula. We are committed to fostering educational consistency and quality across the globe through interactive learning experiences and cutting-edge research. Our goal is to ensure every child, regardless of their location or circumstances, has access to personalized and high-quality education.
 <br><br>  
