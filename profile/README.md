@@ -3,7 +3,6 @@ We are a 501(c)(3) non-profit devoted to providing K-12 assistive technologies a
 
 📚  We develop free, open-source K-12 [curricula](https://curriculum.joone.org/) that seamlessly combines core academics with career and technical education paths. With an emphasis on college and career readiness, our approach is diverse, inclusive, and equitable. All content is hosted on GitHub, written in markdown, and designed for integration with your Learning Management System.
 
-🧭  Our [AI-powered tutors](https://joone-org.notion.site/2f4d5bc97a0841d8af647646799358cf?v=8beedba61f4645e4b219919d79f61379) are designed to adjust both curriculum content and website material to match the reading and comprehension abilities of each student. At the same time, they embody the playful personas of popular figures to make the learning experience more engaging. Expertly blending with existing educational systems, these tutors work to enhance and personalize each student's learning journey. 
 <br><br>
 # 🏹  Mission
 Joone's mission is to democratize K-12 education by creating and distributing free, open-source curricula. We are committed to fostering educational consistency and quality across the globe through interactive learning experiences and cutting-edge research. Our goal is to ensure every child, regardless of their location or circumstances, has access to personalized and high-quality education.
